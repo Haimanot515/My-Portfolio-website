@@ -5,7 +5,7 @@ This is the personal portfolio website of Haimanot Beka, showcasing skills, proj
 🌐 Live Demo:https://my-portfolio-l9o0.onrender.com
 
 Features
-
+ 
 Home page with personal introduction
 
 Skills section

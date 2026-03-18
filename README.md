@@ -1,65 +1,82 @@
-Haimanot Beka Portfolio
+<h1 align="center">💼 Haimanot Beka Portfolio</h1>
 
-This is the personal portfolio website of Haimanot Beka, showcasing skills, projects, and contact information. Designed to present a professional web presence for potential clients or employers.
+<h3 align="center">
+  A modern full-stack personal portfolio website showcasing my skills, projects, and professional web development journey.
+</h3>
 
-🌐 Live Demo:https://my-portfolio-l9o0.onrender.com
+<p align="center">
+  <a href="https://my-portfolio-l9o0.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-View_Portfolio-2ea44f?style=for-the-badge" alt="Live Demo" />
+  </a>
+  <a href="https://github.com/Haimanot515/My-Portfolio-website" target="_blank">
+    <img src="https://img.shields.io/badge/📂_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+  </a>
+</p>
 
-Features
- 
-Home page with personal introduction
+---
 
-Skills section
+## 📌 Project Overview
 
-Projects / portfolio showcase
+**Haimanot Beka Portfolio** is a full-stack personal portfolio website built to present my professional profile, technical skills, featured projects, and contact information in a modern and visually engaging way.
 
-Contact form for inquiries
+This platform serves as my digital portfolio for potential employers, recruiters, collaborators, and clients who want to learn more about my work, experience, and development capabilities.
 
-Responsive design for desktop & mobile
+---
 
-Technologies
+## ✨ Features
 
-HTML5, CSS3, JavaScript
+- 🏠 **Modern homepage with personal introduction**
+- 👩‍💻 **About me section**
+- 🛠️ **Skills and technologies showcase**
+- 📂 **Projects / portfolio showcase**
+- 📬 **Contact form for direct inquiries**
+- 📱 **Responsive design for desktop, tablet, and mobile**
+- ⚡ **Smooth and interactive user experience**
+- 🎨 **Clean and professional UI design**
+- 🔗 **Backend integration for contact or dynamic features**
 
-React.js / Next.js
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-Render.com (deployment)
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-Installation
+### 📧 Services / Integrations
+<p>
+  <img src="https://img.shields.io/badge/Brevo-0B132A?style=for-the-badge" />
+</p>
 
-Clone the repository: git clone https://github.com/YourUsername/my-portfolio.git
+> Based on your package update, your project appears to use **Brevo** for email/contact functionality.
 
-Navigate into the project directory: cd my-portfolio
+### 🚀 Tools & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
 
-Install dependencies: npm install
+---
 
-Start the development server: npm run dev
+## 📂 Project Structure
 
-Usage
-
-Open the site in your browser at http://localhost:3000
-
-Browse through your skills and projects
-
-Use the contact form to send inquiries
-
-Contributing
-
-Fork the repository
-
-Create a new branch
-
-Make your changes and commit
-
-Submit a pull request
-
-License
-
-This project is licensed under the MIT License.
-
-Author
-
-Haimanot Beka
-Email: +251-912-345678
-Website: https://my-portfolio-l9o0.onrender.com
+```bash
+My-Portfolio-website/
+│
+├── backend/              # Backend logic and API routes
+├── frontend/             # Frontend portfolio UI
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md

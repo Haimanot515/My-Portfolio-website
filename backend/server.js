@@ -32,7 +32,8 @@ app.use(
     origin: [
       process.env.CLIENT_URL, 
       "http://localhost:5173", 
-      "https://my-portfolio-l9o0.onrender.com"
+      "https://my-portfolio-l9o0.onrender.com",
+      "https://church-website-admin.onrender.com"
     ],
     credentials: true,
   })
